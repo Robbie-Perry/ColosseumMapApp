@@ -1,0 +1,6 @@
+framework module Pods_Map_Challenge {
+  umbrella header "Pods-Map Challenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
